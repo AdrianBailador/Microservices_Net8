@@ -2,9 +2,9 @@
 
 Building microservices using .NET. We build everything completely from start to finish:
 
-Building two .NET Microservices using the REST API pattern.
-Working with dedicated persistence layers for both services
-Deploying our services in a Kubernetes cluster
-Employing the API Gateway pattern to route to our services
-Creating synchronous messaging between services (HTTP and gRPC)
-Creating asynchronous messaging between services using an event bus (RabbitMQ)
+1. Building two .NET Microservices using the REST API pattern.
+2. Working with dedicated persistence layers for both services.
+3. Deploying our services in a Kubernetes cluster.
+4. Employing the API Gateway pattern to route to our services.
+5. Creating synchronous messaging between services (HTTP and gRPC).
+6. Creating asynchronous messaging between services using an event bus (RabbitMQ).
